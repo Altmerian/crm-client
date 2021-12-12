@@ -35,7 +35,7 @@ export default class AddContacts extends Component {
 
     const buttonStyle = {
       display: "flex",
-      'justify-content': "center",
+      justifyContent: "center",
     };
 
     return (
